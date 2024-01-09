@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ppj.oct.login.LoginMapper">
+	<select id="getUserById" resultType="com.ppj.oct.login.SqueezeUser">
+        SELECT * FROM squeezeUser WHERE squeeze_id = #{id}
+    </select>
+    
+    <insert id="registUser" parameterType="com.ppj.oct.login.SqueezeUser">
+    	insert into squeezeUser values(#{squeeze_id},#{squeeze_pw},SYSDATE,#{squeeze_folder},#{squeeze_email})
+    </insert>
+</mapper>

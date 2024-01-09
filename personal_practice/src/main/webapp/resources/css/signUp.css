@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#signUpHead{
+	background-color: #333;
+}
+
+#signUpT{
+	margin: 0 auto;
+	text-align: center;
+	width:70%;
+    background-color: #333;
+}
