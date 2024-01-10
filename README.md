@@ -4,6 +4,8 @@
 (2023/10/24 ~ 2023/10/03)
 ![image](https://github.com/KimYuKyeong00/PPJ1/assets/152937847/ced07181-c65e-4242-8326-a6b8a1f714aa)
 
+사용된 기술스택 : Java,Spring,Oracle,JSP,JavaScript,JQuery
+사용된 크롤링 라이브러리 : JSoup
 ----
 ### 프로젝트 목표
 - 웹페이지에서 파일 추출하기
@@ -17,7 +19,6 @@
 - 데이터마이닝 보조
 - 신속하고 간편한 정보수집 수단 제공
 
-- 
 
 [PersonalProject_01.pdf](https://github.com/KimYuKyeong00/PPJ1/files/13871338/PersonalProject_01.pdf)
 
