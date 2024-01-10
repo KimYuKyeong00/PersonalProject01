@@ -21,6 +21,7 @@
 - 이미지를 활용하는 사무 작업 보조
 - 데이터마이닝 보조
 - 신속하고 간편한 정보수집 수단 제공
+---------------
 
 
 [PersonalProject_01.pdf](https://github.com/KimYuKyeong00/PPJ1/files/13871338/PersonalProject_01.pdf)
