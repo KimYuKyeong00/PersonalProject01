@@ -1,7 +1,7 @@
 # SQUEEZE
 
 웹 크롤링을 이용한 이미지 데이터 수집 웹 어플리케이션입니다. 
-(2023/10/24 ~ 2023/10/03)
+(2023/10/24 ~ 2023/11/03)
 ![image](https://github.com/KimYuKyeong00/PPJ1/assets/152937847/ced07181-c65e-4242-8326-a6b8a1f714aa)
 
 사용된 기술스택 : Java, Spring, Oracle, JSP, JavaScript, JQuery
@@ -22,6 +22,11 @@
 - 데이터마이닝 보조
 - 신속하고 간편한 정보수집 수단 제공
 ---------------
+### 현재 추가기능 구현중
+체크박스로 다운로드 할 이미지 선택하기 기능(현재 구현 완료)
+로그인 기능(구현 중)
+이미지파일 저장소 기능(구현 예정)
+
 
 
 [PersonalProject_01.pdf](https://github.com/KimYuKyeong00/PPJ1/files/13871338/PersonalProject_01.pdf)
